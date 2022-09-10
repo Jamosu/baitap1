@@ -1,5 +1,5 @@
 public class Main {
     void main(){
-        System.out.printf("Con");
+        System.out.printf("Con"); //lenh in
     }
 }
